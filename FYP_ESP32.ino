@@ -1,14 +1,3 @@
-/* To Do:
-  Add a way of getting custom/unique device id's
-  Database security
-
-  Update alarms on alarm time Change
-  heart beats slowing alarm
-  Make notification time changeable
-  If wifi fails keeps sending Nextion disconnected event (Line 596)
-  Move refill request to after the motor runs in the alert system and add it to the startup
-  */
-
 //Packages
   #include <Stepper.h>
   #include <WiFi.h>
