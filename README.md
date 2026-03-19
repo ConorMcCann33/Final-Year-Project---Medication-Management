@@ -31,7 +31,7 @@ The system consists of four main components:
 ## Setup Instructions
 
 ### Android App
-- Install `app-debug.apk` on an Android device
+- Install `FYP-App-Download.apk` on an Android device
 
 ### ESP32
 - Upload the firmware using Arduino IDE
